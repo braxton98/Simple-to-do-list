@@ -1,0 +1,38 @@
+.tdl {
+  color: purple;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 360px;
+}
+
+body {
+  width: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 auto;
+}
+
+.inputfield {
+  width: 300px auto;
+  height: 24px;
+  border: 2px solid gold;
+  outline: none;
+  font-size: 24px;
+  vertical-align: middle;
+}
+
+.addtd {
+  height: 30px;
+  width: 50px;
+  border: 2px solid gold;
+  vertical-align: middle;
+  font-size: 24px;
+}
+
+.button1 {
+  width: 24px;
+  height: 20px;
+}
